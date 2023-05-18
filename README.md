@@ -1,8 +1,5 @@
----
-title: "Baseball Salaries"
-author: "Jesus Marquez Garcia"
-output: html_notebook
----
+
+# Baseball Salaries
 
 ### Packages
 ```{r, message = FALSE, warning = FALSE}
